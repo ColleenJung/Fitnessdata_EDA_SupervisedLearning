@@ -42,8 +42,6 @@ Here's a comparison between Logistic Regression (LR) and Decision Trees, highlig
    - Decision Trees can handle multicollinearity to some extent by selecting the most discriminative features at each split.
    - LR is sensitive to multicollinearity, and high multicollinearity can lead to unstable coefficient estimates.
 
-The choice between LR and Decision Trees should be based on the specific characteristics of your data, the problem you are trying to solve, and your requirements for model interpretability and complexity. Consider the trade-offs and strengths of each method when deciding which one is best for your analysis.
-
 ## Decision Trees vs. Logistic Regression Result Comparison
 
 - **Accuracy:** The logistic Regression model correctly predicted the default status (churn or not churn) for 88.09% while for the Decision Tree we got an accuracy level of 89.41% 
